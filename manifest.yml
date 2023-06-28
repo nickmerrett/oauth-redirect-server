@@ -1,4 +1,4 @@
 ---
 applications:
- - name: <your-app-name-here>
+ - name: oauth-redirect-server
    memory: 256MB
